@@ -4,9 +4,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonasMaia12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### 🚀 Desenvolvedor Front-End
+### 🚀 Desenvolvedor Front-End Especializado em AEM
 
-Sou um entusiasta de tecnologia que começou a jornada pela programação através da paixão por jogos e experiências interativas. Atualmente, sou desenvolvedor **Front-End** focado em criar interfaces intuitivas e dinâmicas com **JavaScript**, **React**, e **TypeScript**.
+Sou um entusiasta de tecnologia que começou a jornada pela programação através da paixão por jogos e experiências interativas. Atualmente, sou desenvolvedor **Front-End** com foco em criar interfaces intuitivas e dinâmicas com **JavaScript**, **React**, e **TypeScript**.
+
+Nos últimos anos, tenho trabalhado extensivamente com **Adobe Experience Manager (AEM)**, desenvolvendo componentes personalizados e otimizando experiências digitais para grandes aplicações corporativas.
 
 ---
 
@@ -14,6 +16,7 @@ Sou um entusiasta de tecnologia que começou a jornada pela programação atrav�
 
 - **Linguagens**: JavaScript, TypeScript, HTML, CSS  
 - **Frameworks**: React  
+- **Plataformas**: Adobe Experience Manager (AEM)  
 - **Ferramentas**: Git, GitHub, Figma  
 
 ---
